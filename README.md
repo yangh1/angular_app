@@ -1,4 +1,4 @@
-# Simple Angluar App
+# Simple Angular App
 
 
 This is a simple contacts app. You can enter people's info then add it into contact 
